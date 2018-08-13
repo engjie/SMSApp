@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS App</string>
+    <string name="to">TO:</string>
+    <string name="content">CONTENT:</string>
+    <string name="sends">SEND</string>
+    <string name="sendMess">SEND VIA MESSAGES</string>
+</resources>
